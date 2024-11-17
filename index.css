@@ -84,15 +84,7 @@ width: 60%;
 left: 255px;
 
 }
-#Explored-button{
-    margin: 0;
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-  
-}
+
 #Explored-button{
     color: black;
     background-color: white;
@@ -659,6 +651,8 @@ margin-bottom: 20px;
 
    }
 
+
+   
    #Explored-button{
     color: black;
     background-color: white;
