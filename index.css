@@ -1220,7 +1220,8 @@ flex-wrap: wrap
 .new-collection{
     max-width: 1250px;
     width: 100%;
-    margin: 400px auto;
+    margin-top: 500px;
+    margin-bottom: 400px;
     display: block;
     justify-content: center;
     align-items: center;
