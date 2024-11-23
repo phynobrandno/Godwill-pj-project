@@ -96,7 +96,7 @@ left: 255px;
     font-size: 24px;
     width: 200px;
     height: 50px;
-    left: 550px;
+    left: 600px;
 }
 
 .new-collection{
@@ -1209,8 +1209,8 @@ flex-wrap: wrap
     top: 150px;
     border: 1px solid black;
     border-radius: 50px;
-    width: 60%;
-    height: 15vh;
+    width: 55%;
+    height: 10vh;
     gap: 10px;
     font-size: 24px;
     text-align: center;
